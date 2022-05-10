@@ -28,8 +28,9 @@ foi usado o banco de dados acima para os testes.
       <Conteudo obrigatorio>
       {conteudo adicional}
 
-Sintaxe - CREATE DATABASE <NomeDoBancoDeDados>
-Sintaxe DROP <database ou table> <nomeDoBanco ou nomeDaTabela >
+Sintaxe Create- CREATE DATABASE <NomeDoBancoDeDados>
+Sintaxe DROP - DROP <database ou table> <nomeDoBanco ou nomeDaTabela >
+Sintaxe Backup - BACKUP DATABASE <nomeBancoDeDAdos> TO DISK = <Path ou caminho>;
 -----------------------------------------------------
 SELECT - COMANDO PARA REALIZAR UMA BUSCA EM CIMA DE DADOS 
 SELECIONAR UMA COLUNA, OU MAIS, OU TODAS DE UMA TABELA
