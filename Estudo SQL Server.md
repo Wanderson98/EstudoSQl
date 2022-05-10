@@ -30,7 +30,7 @@ foi usado o banco de dados acima para os testes.
 
 Sintaxe Create- CREATE DATABASE <NomeDoBancoDeDados>
 Sintaxe DROP - DROP <database ou table> <nomeDoBanco ou nomeDaTabela >
-Sintaxe Backup - BACKUP DATABASE <nomeBancoDeDAdos> TO DISK = <Path ou caminho>;
+Sintaxe Backup - BACKUP DATABASE <nomeBancoDeDAdos> TO DISK = <Path ou caminho \ arquivo destino.bak>;
 -----------------------------------------------------
 SELECT - COMANDO PARA REALIZAR UMA BUSCA EM CIMA DE DADOS 
 SELECIONAR UMA COLUNA, OU MAIS, OU TODAS DE UMA TABELA
